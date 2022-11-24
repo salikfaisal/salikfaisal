@@ -1,5 +1,5 @@
 I am an undergraduate student at the University of Houston.
-I'm interested in the intersection between data and social science.
+I'm interested in using data to understand politics, social science, and sports.
 
 <!---
 salikfaisal/salikfaisal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
