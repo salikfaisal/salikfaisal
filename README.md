@@ -1,6 +1,6 @@
 # Introduction
 
-I’m Salik, and this space is where I explore ideas that interest me — data, society, cities, politics, sports, and the ways quantitative patterns reveal deeper stories about the world. I enjoy using data not just to model or forecast, but to *tell stories* that make complex systems easier to understand.
+I’m interested in data, society, cities, politics, sports, and the ways quantitative patterns reveal deeper stories about the world. I enjoy using data not just to model or forecast, but to *tell stories* that make complex systems easier to understand.
 
 My interests aren’t limited to a single domain, and my projects tend to reflect that. Some are focused on political behavior or demographic patterns. Others look at housing, transportation, or sports analytics. I like working on questions that require careful reasoning, clean pipelines, and a mix of analytical and narrative thinking.
 
