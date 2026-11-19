@@ -1,4 +1,4 @@
-# Welcome to my GitHub
+# Introduction
 
 I’m Salik, and this space is where I explore ideas that interest me — data, society, cities, politics, sports, and the ways quantitative patterns reveal deeper stories about the world. I enjoy using data not just to model or forecast, but to *tell stories* that make complex systems easier to understand.
 
